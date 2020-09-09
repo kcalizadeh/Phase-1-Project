@@ -1,7 +1,7 @@
 # Phase-1-Project
 A repository for work on the Flatitons School Phase 1 Project
 
-This repo contains 3 primary documents:
+This repo contains 3 primary documents:\n
 1 A Jupyter Notebook containing code and explanations for the movie data and results
 2 A slide deck presentation that summarizes that data for a non-technical audience
 3 A presentation recording where I go over the findings
