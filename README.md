@@ -1,11 +1,11 @@
 # Phase-1-Project
 A repository for work on the Flatitons School Phase 1 Project
 
-This repo contains 3 primary documents:/n
-1 A Jupyter Notebook containing code and explanations for the movie data and results
-2 A slide deck presentation that summarizes that data for a non-technical audience
-3 A presentation recording where I go over the findings
-You will also find two folders - one is the movie data zipped, and the other is an empty folder where unzipped files will be generated.
+This repo contains 3 primary documents:  
+1 A Jupyter Notebook containing code and explanations for the movie data and results  
+2 A slide deck presentation that summarizes that data for a non-technical audience  
+3 A presentation recording where I go over the findings  
+You will also find two folders - one is the movie data zipped, and the other is an empty folder where unzipped files will be generated.   
 
 Our primary goal was to decide what kind of movie to make for our newly minted Microsoft Stuidios. To decide this, we looked at 5 primary questions:
 Q1 What kind of budget should we have?
