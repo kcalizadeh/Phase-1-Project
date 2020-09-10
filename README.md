@@ -1,5 +1,5 @@
 # Phase-1-Project
-A repository for work on the Flatitons School Phase 1 [Project](#bird)
+A repository for work on the Flatitons School Phase 1 Project
 
 This repo contains 3 primary documents:  
 1 A Jupyter Notebook containing code and explanations for the movie data and results  
@@ -15,16 +15,16 @@ Q4 Who should our director be?
 Q5 Who should our writer(s) be?  
 
 Our answers:  
-Q1 - it turns out that higher budgets yield higher profits. We recommend a budget of $4M, with an expected rate of return of 25-40%   
-Q2 - there is no meaningful connection between ratings and profits  
-Q3 - animation, adventure, and sci-fi are the most profitable  
-Q4 - Pierre Coffin is has the highest average profits. He works primarily with children's films, however, so another director like Christopher Nolan or Michael Bay would be ideal  
-Q5 - Joe Simon or Joss Whedon are the recommended hires based on the average profits of their films  
+Q1 - it turns out that [higher budgets yield higher profits.](./MS Studios Recs.ipynb#Budget-&-Profits) We recommend a budget of $4M, with an expected rate of return of 25-40%   
+Q2 - there is [no meaningful connection between ratings and profits](./MS Studios Recs.ipynb#Ratings-&-Profits)  
+Q3 - [animation, adventure, and sci-fi are the most profitable](./MS Studios Recs.ipynb#Profitability-by-Genre)
+Q4 - Pierre Coffin is has the highest average profits. He works primarily with children's films, however, so another director like [Christopher Nolan or Michael Bay would be ideal](./MS Studios Recs.ipynb#Most-Profit-Generating-Directors-&-Writers)  
+Q5 - Joe Simon or Joss Whedon are the recommended hires [based on the average profits of their films](./MS Studios Recs.ipynb#Most-Profit-Generating-Directors-&-Writers)  
 
-Code and explanation can be found in the Jupyter Notebook
-
-
+Code and explanation can be found in the [Jupyter Notebook](./MS Studios Recs.ipynb)
 
 
 
-bird
+```python
+
+```
