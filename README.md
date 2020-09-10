@@ -22,3 +22,9 @@ Q4 - Pierre Coffin is has the highest average profits. He works primarily with c
 Q5 - Joe Simon or Joss Whedon are the recommended hires based on the average profits of their films  
 
 Code and explanation can be found in the Jupyter Notebook
+
+
+
+
+
+bird
